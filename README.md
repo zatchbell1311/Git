@@ -1,2 +1,2 @@
 # Git
-Basic learning of github
+Basic learning of tech
